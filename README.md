@@ -1,2 +1,3 @@
 # hello-world
-First GitHub Repository
+
+This is an example repository I am using to learn how GitHub works.
